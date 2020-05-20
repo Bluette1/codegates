@@ -42,5 +42,6 @@ This is the big picture, otherwise known as intuitive reasoning
 ###### Statistics matter: Be sure to keep a record of the most commonly made mistakes, for example when if you normally type '>' instead of '>=', you can note this in your list. When you encounter a bug, you can tick off of this list.
 
 #### Above All: Code With Love
-* Pay attention to **how you feel** when you are coding. You are most productive when you are happiest. Coding with love will allow you to code love into your programs. 
+* Don't lean too much on your feelings because they are often deceptive. However, you musn't completely disregard them. Pay attention to **how you feel** when you are coding. You are most productive when you are happiest. Coding with love will allow you to code love into your programs. 
 * Make it fun and try to balance. Apply some **rhythm**. Make it a dance pattern. Rhythm is embedded in nature. Let nature work for you. Take some *timely breaks* if you have to, and then resume when you can. Even if you love what you do you have to be wise enough to take some rest from your work.
+ 
